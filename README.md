@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MySmilingTurban, a passionate Python programmer.
+- 👀 I’m interested in solving tricky algorithms. 
+- 🌱 I’m currently learning Artificial Intelligence 
+- 💞️ I’m looking to collaborate on Exploring seemless possibilities of using Programming.
+- 📫 How to reach me https://www.linkedin.com/in/gurmehar-singh-8651011a6/
