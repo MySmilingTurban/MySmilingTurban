@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MySmilingTurban, a passionate Python programmer.
+- 👋 Hi, I’m @MySmilingTurban, a passionate Python programmer with HTML, CSS skills.
 - 👀 I’m interested in solving tricky algorithms. 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Exploring seemless possibilities of using Programming.
