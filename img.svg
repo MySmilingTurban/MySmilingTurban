@@ -1,0 +1,21 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        img{
+          height:5px;
+        }
+        img:hover {
+          transform: scaleX(-1);
+        }
+      </style>
+    </div>
+    <div>
+      <a href='https://www.pypi.org'><img src='https://img.icons8.com/color/2x/python.png'/></a>
+      <a href='https://en.wikipedia.org/wiki/HTML'><img src="https://img.icons8.com/color/2x/html-5.png"/></a>    
+      <a href='https://en.wikipedia.org/wiki/CSS'><img src="https://img.icons8.com/color/2x/css3.png"/></a>    
+      <a href='https://discord.gg/rx8qU7fCgk'><img src='https://img.icons8.com/color/2x/discord-logo.png'/></a>    
+      <a href='https://www.youtube.com/c/GurmeharSinghKhalsa'><img src='https://img.icons8.com/doodle/2x/youtube-play--v2.png'/></a>
+    </div>
+  </foreignObject>
+</svg>
