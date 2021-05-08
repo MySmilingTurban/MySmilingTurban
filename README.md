@@ -14,3 +14,5 @@
 - 💞️ I’m looking to collaborate on Exploring seemless possibilities of using Programming.
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/gurmehar-singh-8651011a6/) or [Instagram](https://instagram.com/MySmilingTurban/)
 - 🧩 Check out my [Website](https://bit.ly/GurmeharSingh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/MySmilingTurban/github-readme-stats)
