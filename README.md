@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=MySmilingTurban&show_icons=true&hide_border=true&theme=dark">
+### Hello W🌏rld 
+[![MySmilingTurban's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/MySmilingTurban/github-readme-stats)
 <div>
   <a href='https://www.pypi.org'><img height='50' src='https://img.icons8.com/color/2x/python.png'></a>
   <a href='https://en.wikipedia.org/wiki/HTML'><img height='50' src="https://img.icons8.com/color/2x/html-5.png"></a>    
