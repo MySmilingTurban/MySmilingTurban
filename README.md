@@ -12,5 +12,5 @@
 - 👀 I’m interested in solving tricky algorithms. 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Exploring seemless possibilities of using Programming.
-- 📫 How to reach me https://www.linkedin.com/in/gurmehar-singh-8651011a6/
-- 🧩 Check out my Website : https://bit.ly/GurmeharSingh
+- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/gurmehar-singh-8651011a6/) or [Instagram](https://instagram.com/MySmilingTurban/)
+- 🧩 Check out my [Website](https://bit.ly/GurmeharSingh)
