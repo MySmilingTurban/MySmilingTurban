@@ -18,10 +18,10 @@ Let's Explore together🧐
   <a href='https://en.wikipedia.org/wiki/CSS'><img height='50' src="https://img.icons8.com/color/2x/css3.png"></a>
 </div>
 
-- 👋 Hi, I’m @MySmilingTurban, a passionate Python programmer with HTML, CSS skills.
-- 👀 I’m interested in solving tricky algorithms. 
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @MySmilingTurban, a passionate Python programmer with HTML, CSS skills.
+- <img src="/Eyes.gif" width="40px"> I’m interested in solving tricky algorithms. 
 - 🌱 I’m currently learning Artificial Intelligence 
-- 💞️ I’m looking to collaborate on Exploring seemless possibilities of using Programming.
+- <img src="/EarthGIF.gif" width="40px"> I’m looking to collaborate on Exploring seemless possibilities of using Programming.
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/gurmehar-singh-8651011a6/) or [Instagram](https://instagram.com/MySmilingTurban/)
 - 🧩 Check out my [Website](https://bit.ly/GurmeharSingh)
 
