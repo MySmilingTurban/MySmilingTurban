@@ -1,5 +1,4 @@
 ### Hello W<img src="/EarthGIF.gif" width="30px">rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<link rel="stylesheet" type="text/css" href="style.css">
 
 [![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')]()
 
@@ -19,7 +18,7 @@ Let's Explore together🧐
 </div>
 
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @MySmilingTurban, a passionate Python programmer with HTML, CSS skills.
-- <img src="/Eyes.svg" width="40px" style='border-radius:75px'> I’m interested in solving tricky algorithms. 
+- <img src="/Eyes.svg" width="30px" style='border-radius:75px'> I’m interested in solving tricky algorithms. 
 - 🌱 I’m currently learning Artificial Intelligence 
 - <img src="/EarthGIF.gif" width="40px"> I’m looking to collaborate on Exploring seemless possibilities of using Programming.
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/gurmehar-singh-8651011a6/) or [Instagram](https://instagram.com/MySmilingTurban/)
