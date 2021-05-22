@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')]()
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg 'We breathe!')](https://en.wikipedia.org/wiki/Oxygen)
 
 <details>
 <summary>
@@ -11,20 +10,6 @@ Let's Explore together🧐
 
 <br/>
 
-<div>
-  <a href='https://www.pypi.org'><img height='50' src='https://img.icons8.com/color/2x/python.png'></a>
-  <a href='https://en.wikipedia.org/wiki/HTML'><img height='50' src="https://img.icons8.com/color/2x/html-5.png"></a>    
-  <a href='https://en.wikipedia.org/wiki/CSS'><img height='50' src="https://img.icons8.com/color/2x/css3.png"></a>
-</div>
-
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @MySmilingTurban, a passionate Python programmer with HTML, CSS skills.
-- <img src="/Eyes.svg" width="30px" style='border-radius:75px'> I’m interested in solving tricky algorithms. 
-- 🌱 I’m currently learning Artificial Intelligence 
-- <img src="/EarthGIF.gif" width="40px"> I’m looking to collaborate on Exploring seemless possibilities of using Programming.
-- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/gurmehar-singh-8651011a6/) or [Instagram](https://instagram.com/MySmilingTurban/)
-- 🧩 Check out my [Website](https://bit.ly/GurmeharSingh)
-
----
 [![MySmilingTurban's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/MySmilingTurban/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/MySmilingTurban/github-readme-stats)
 
