@@ -1,5 +1,5 @@
 ### Hello W🌏rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="style.css">
 
 [![](https://img.shields.io/badge/Error404-Brain%20not%20found😂-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen)]()
 
