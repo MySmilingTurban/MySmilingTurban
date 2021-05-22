@@ -5,7 +5,7 @@
 
 <details>
 <summary>
-Let's Explore together🧐
+Click to Explore 🧐
 </summary>
 
 <br/>
