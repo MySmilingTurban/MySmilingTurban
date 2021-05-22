@@ -1,20 +1,22 @@
-### Hello W🌏rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hello W<img src="/EarthGIF.gif" width="30px">rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <link rel="stylesheet" type="text/css" href="style.css">
 
-[![](https://img.shields.io/badge/Error404-Brain%20not%20found😂-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen)]()
+[![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')]()
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://en.wikipedia.org/wiki/Oxygen)
-<div class='myDiv'>
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg 'We breathe!')](https://en.wikipedia.org/wiki/Oxygen)
+
+<details>
+<summary>
 Let's Explore together🧐
-</div>
+</summary>
 
 <br/>
 
-<div class='hide'>
+<div>
   <a href='https://www.pypi.org'><img height='50' src='https://img.icons8.com/color/2x/python.png'></a>
   <a href='https://en.wikipedia.org/wiki/HTML'><img height='50' src="https://img.icons8.com/color/2x/html-5.png"></a>    
   <a href='https://en.wikipedia.org/wiki/CSS'><img height='50' src="https://img.icons8.com/color/2x/css3.png"></a>
-
+</div>
 
 - 👋 Hi, I’m @MySmilingTurban, a passionate Python programmer with HTML, CSS skills.
 - 👀 I’m interested in solving tricky algorithms. 
@@ -48,5 +50,3 @@ Let's Explore together🧐
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rx8qU7fCgk)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/GurmeharSinghKhalsa)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
-
-</div>
