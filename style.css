@@ -2,7 +2,6 @@
   display: none;
 }
 
-.myDIV:hover + .hide {
+.myDIV:hover, .hide {
   display: block;
-  color: red;
 }
