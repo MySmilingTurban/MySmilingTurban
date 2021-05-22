@@ -1,6 +1,6 @@
-### Hello W🌏rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello W🌏rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-[![😂](https://img.shields.io/badge/Error404-Brain%20not%20found-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen)]() 
+[![](https://img.shields.io/badge/Error404-Brain%20not%20found😂-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen)]()
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://en.wikipedia.org/wiki/Oxygen)
 <details>
