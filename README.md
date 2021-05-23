@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/MySmilingTurban/github-readme-stats)
 
 ---
-<img src='/gifs/think.gif' align='right' height='125'>
+<img src='/gifs/think.gif' align='right' height='125em'>
 
 ### What i know?
 
