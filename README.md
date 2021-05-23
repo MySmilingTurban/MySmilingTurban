@@ -41,5 +41,5 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rx8qU7fCgk)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
-<img src='/keepsmiling.gif'>
+<img src='/keepsmiling.gif' width='350'>
 </div>
