@@ -1,4 +1,4 @@
-### Hello W<img src="/EarthGIF.gif" width="30px">rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hello W<img src="/gifs/EarthGIF.gif" width="30px">rld <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 [![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')]()
 
@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/MySmilingTurban/github-readme-stats)
 
 ---
-<img src='/think.gif' align='right' height='125'>
+<img src='/gifs/think.gif' align='right' height='125'>
 
 ### What i know?
 
@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 ---
-<img src='/learn.gif' align='left' height='125'>
+<img src='/gifs/learn.gif' align='left' height='125'>
 <div align='right'>
   
 ### What I'm learning?
@@ -34,12 +34,12 @@
 ---
 <div align='center'>
 
-### Exploration Point🛰
+### <img src='/Eyes.svg' width='15'> Exploration Point🛰
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/GurmeharSinghKhalsa)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rx8qU7fCgk)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
-<img src='/keepsmiling.gif' width='350'>
+<img src='/gifs/keepsmiling.gif' width='350'>
 </div>
