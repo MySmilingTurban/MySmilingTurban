@@ -2,12 +2,6 @@
 
 [![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')]()
 
-
-<details>
-<summary>
-Click to Explore 🧐
-</summary>
-
 <br/>
 
 [![MySmilingTurban's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/MySmilingTurban/github-readme-stats)
