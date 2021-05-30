@@ -4,7 +4,8 @@
 
 <br/>
 
-[![MySmilingTurban's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySmilingTurban&count_private=true&hide_border=true&show_icons=true&theme=vision-friendly-dark)]()
+[![MySmilingTurban's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySmilingTurban&hide_border=true&show_icons=true&theme=vision-friendly-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySmilingTurban&hide_border=true&show_icons=true&theme=vision-friendly-dark)]()
 
 ---
 <img src='/gifs/think.gif' align='right' height='100'>
