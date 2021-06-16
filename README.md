@@ -2,8 +2,11 @@
 
 [![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')]()
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7D122&lines=Believe+YOU+Can)]()
+
 <br/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MySmilingTurban&theme=dark&fire=FF640A&ring=FFBF29)](https://git.io/streak-stats)
 [![MySmilingTurban's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySmilingTurban&hide_border=true&show_icons=true&theme=vision-friendly-dark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySmilingTurban&hide_border=true&show_icons=true&theme=vision-friendly-dark)]()
 
@@ -41,4 +44,8 @@
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
 <img src='/gifs/keepsmiling.gif' width='350'>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D4200FE8&center=true&lines=I+love+the+way+YOU+Smile%F0%9F%98%8A)]()
+
 </div>
