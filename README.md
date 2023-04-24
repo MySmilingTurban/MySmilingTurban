@@ -8,19 +8,21 @@
 
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MySmilingTurban&theme=dark&fire=FF640A&ring=FFBF29)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MySmilingTurban&theme=dark&fire=FF640A&ring=FFBF29)](https://git.io/streak-stats)
 [![MySmilingTurban's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySmilingTurban&hide_border=true&show_icons=true&theme=vision-friendly-dark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySmilingTurban&hide_border=true&show_icons=true&theme=vision-friendly-dark)]()
-
+ -->
 ---
 <img src='/gifs/think.gif' align='right' height='100'>
 
 ### What i know?
 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
 ---
 <img src='/gifs/learn.gif' align='left' height='100'>
@@ -28,7 +30,9 @@
   
 ### What I'm learning?
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 
@@ -39,10 +43,10 @@
 
 ### <img src='/Eyes.svg' width='15'> Exploration Point🛰
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLOFtfd3WgqudTGxQn0AQEg?color=red&logo=youtube&style=for-the-badge&labelColor=d60202)](https://www.youtube.com/c/GurmeharSinghKhalsa)
+<!-- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLOFtfd3WgqudTGxQn0AQEg?color=red&logo=youtube&style=for-the-badge&labelColor=d60202)](https://www.youtube.com/c/GurmeharSinghKhalsa)
 [![Views](https://img.shields.io/youtube/channel/views/UCLOFtfd3WgqudTGxQn0AQEg?color=blue&label=View%20count&logo=youtube&style=for-the-badge&labelColor=0b689d)](https://www.youtube.com/c/GurmeharSinghKhalsa)
 
-[![Discord](https://img.shields.io/discord/770349380942692352?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/rx8qU7fCgk)
+[![Discord](https://img.shields.io/discord/770349380942692352?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/rx8qU7fCgk) -->
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
 <img src='/gifs/keepsmiling.gif' width='350'>
