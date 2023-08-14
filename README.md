@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 🔭 I’m currently working on building applications to make a positive imapct on the community<br/>
 👯 I’m looking to collaborate on new innovating projects in JavaScript and Python<br/>
